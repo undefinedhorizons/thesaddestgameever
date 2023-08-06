@@ -114,8 +114,8 @@ void AthesaddestgameeverCharacter::SetupPlayerInputComponent(class UInputCompone
 	check(PlayerInputComponent);
 
 	// Bind jump events
-	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
-	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+	// PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
+	// PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
 	// Bind fire event
 	PlayerInputComponent->BindAction("Fire", IE_Pressed, this, &AthesaddestgameeverCharacter::OnFire);
