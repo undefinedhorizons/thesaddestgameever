@@ -1,24 +1,22 @@
-# О проекте
-- **Сеттинг** - реалистичное окружение с выдуманными врагами
-- **Жанр** - Шутер от первого лица, приключенческая игра
-- **Аудитория** - Ж/М 16+
-- **Игры-референсы** - DOOM Eternal, DOOM (2016)
+# About the project
+- **Setting** - Realistic environment with fictional enemies
+- **Genre** - First-person shooter, adventure game
+- **Audience** - W/M 16+
+- **Reference Games** - DOOM Eternal, DOOM (2016)
 
-### Описание концепции (развёрнуто)
-Арена-шутер в духе DOOM. Игрок вооружен оружием ближнего боя, с помощью которого он может
+### Concept Description (expanded)
+An arena shooter in the spirit of DOOM. The player is armed with melee weapons with which he can
 
-1. Дэшиться сквозь врагов, нанося им урон (как Гэндзи из Overwatch)
-2. Запускать во врагов волну, наносящую им урон
+1. Dash through enemies, dealing damage (like Genji from Overwatch).
+2. Launch a wave at enemies, causing them to take damage
 
-Врагами выступают духи, призраки
+Enemies include spirits, ghosts, and ghosts.
 
-![Примерный визуальный стиль](https://media.discordapp.net/attachments/1074970784277200969/1082708133534773289/undefinedhorizons_ghosts_white_floor_scary_environment_rtx_6350efc0-17ec-4343-86da-20f967b416c3.png?width=513&height=513 "Примерный визуальный стиль")
+### Diagram
 
-### Диаграмма
-
-[По ссылке](https://drive.google.com/file/d/11hl3g1bldA8r9VMNl33NsQprmLpOKTan/view?usp=sharing "Диаграмма")
+[Link](https://drive.google.com/file/d/11hl3g1bldA8r9VMNl33NsQprmLpOKTan/view?usp=sharing “Diagram”)
 
 
-### UML Диаграмма
+### UML Diagram
 
-[По ссылке](https://drive.google.com/file/d/1R-OwPv77PvmLnscIQD2Q6MOYZElm0BEb/view "UML Диаграмма")
+[Link](https://drive.google.com/file/d/1R-OwPv77PvmLnscIQD2Q6MOYZElm0BEb/view “UML Diagram”)
