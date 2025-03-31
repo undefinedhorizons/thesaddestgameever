@@ -14,9 +14,9 @@ Enemies include spirits, ghosts, and ghosts.
 
 ### Diagram
 
-[Link](https://drive.google.com/file/d/11hl3g1bldA8r9VMNl33NsQprmLpOKTan/view?usp=sharing “Diagram”)
+[Link](https://drive.google.com/file/d/11hl3g1bldA8r9VMNl33NsQprmLpOKTan/view?usp=sharing)
 
 
 ### UML Diagram
 
-[Link](https://drive.google.com/file/d/1R-OwPv77PvmLnscIQD2Q6MOYZElm0BEb/view “UML Diagram”)
+[Link](https://drive.google.com/file/d/1R-OwPv77PvmLnscIQD2Q6MOYZElm0BEb/view)
